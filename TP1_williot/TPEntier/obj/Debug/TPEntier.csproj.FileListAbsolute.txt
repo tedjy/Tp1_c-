@@ -1,0 +1,8 @@
+D:\ted\TP1_williot\TPEntier\bin\Debug\TPEntier.exe.config
+D:\ted\TP1_williot\TPEntier\bin\Debug\TPEntier.exe
+D:\ted\TP1_williot\TPEntier\bin\Debug\TPEntier.pdb
+D:\ted\TP1_williot\TPEntier\obj\Debug\TPEntier.csproj.AssemblyReference.cache
+D:\ted\TP1_williot\TPEntier\obj\Debug\TPEntier.csproj.SuggestedBindingRedirects.cache
+D:\ted\TP1_williot\TPEntier\obj\Debug\TPEntier.csproj.CoreCompileInputs.cache
+D:\ted\TP1_williot\TPEntier\obj\Debug\TPEntier.exe
+D:\ted\TP1_williot\TPEntier\obj\Debug\TPEntier.pdb

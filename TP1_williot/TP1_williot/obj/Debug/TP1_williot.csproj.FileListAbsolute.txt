@@ -1,0 +1,8 @@
+D:\ted\TP1_williot\TP1_williot\bin\Debug\TP1_williot.exe.config
+D:\ted\TP1_williot\TP1_williot\bin\Debug\TP1_williot.exe
+D:\ted\TP1_williot\TP1_williot\bin\Debug\TP1_williot.pdb
+D:\ted\TP1_williot\TP1_williot\obj\Debug\TP1_williot.csproj.AssemblyReference.cache
+D:\ted\TP1_williot\TP1_williot\obj\Debug\TP1_williot.csproj.SuggestedBindingRedirects.cache
+D:\ted\TP1_williot\TP1_williot\obj\Debug\TP1_williot.csproj.CoreCompileInputs.cache
+D:\ted\TP1_williot\TP1_williot\obj\Debug\TP1_williot.exe
+D:\ted\TP1_williot\TP1_williot\obj\Debug\TP1_williot.pdb

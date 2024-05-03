@@ -1,0 +1,8 @@
+D:\ted\TP1_williot\TP1Delta\bin\Debug\TP1Delta.exe.config
+D:\ted\TP1_williot\TP1Delta\bin\Debug\TP1Delta.exe
+D:\ted\TP1_williot\TP1Delta\bin\Debug\TP1Delta.pdb
+D:\ted\TP1_williot\TP1Delta\obj\Debug\TP1Delta.csproj.AssemblyReference.cache
+D:\ted\TP1_williot\TP1Delta\obj\Debug\TP1Delta.csproj.SuggestedBindingRedirects.cache
+D:\ted\TP1_williot\TP1Delta\obj\Debug\TP1Delta.csproj.CoreCompileInputs.cache
+D:\ted\TP1_williot\TP1Delta\obj\Debug\TP1Delta.exe
+D:\ted\TP1_williot\TP1Delta\obj\Debug\TP1Delta.pdb
